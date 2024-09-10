@@ -7,9 +7,6 @@ from sklearn.preprocessing import LabelEncoder
 
 ```
 
-    /Users/manasdash/anaconda3/lib/python3.11/site-packages/pandas/core/arrays/masked.py:60: UserWarning: Pandas requires version '1.3.6' or newer of 'bottleneck' (version '1.3.5' currently installed).
-      from pandas.core import (
-
 
 
 ```python
@@ -32,19 +29,7 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -154,19 +139,7 @@ df.tail()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -341,19 +314,7 @@ df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -507,8 +468,9 @@ plt.show()
 ```
 
 
-    
-![png](output_15_0.png)
+ ![Unknown-1](https://github.com/user-attachments/assets/f88ab322-881f-4c67-9912-076fd779c113)
+   
+
     
 
 
@@ -523,7 +485,8 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![Unknown-2](https://github.com/user-attachments/assets/616a5ea9-bc0e-4d87-805e-fb0c410b1b7f)
+
     
 
 
@@ -537,8 +500,8 @@ plt.show()
 ```
 
 
-    
-![png](output_17_0.png)
+![Unknown-3](https://github.com/user-attachments/assets/96055cc1-4db6-4136-8687-40c1ce71c100)
+
     
 
 
@@ -554,9 +517,9 @@ plt.ylabel('Count')
 plt.show()
 ```
 
+![Unknown-4](https://github.com/user-attachments/assets/1c3a81e3-3316-4be4-b571-d29bac6c846d)
 
-    
-![png](output_18_0.png)
+
     
 
 
@@ -573,8 +536,9 @@ plt.show()
 ```
 
 
-    
-![png](output_19_0.png)
+![Unknown-5](https://github.com/user-attachments/assets/c5d417a3-9e49-4f65-b012-31d25d245ec7)
+
+
     
 
 
@@ -591,8 +555,9 @@ plt.show()
 ```
 
 
-    
-![png](output_20_0.png)
+![Unknown](https://github.com/user-attachments/assets/d4ae9c97-8cd0-45e0-b30e-9ca728950c9d)
+ 
+
     
 
 
@@ -608,7 +573,8 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![Unknown-6](https://github.com/user-attachments/assets/f7bffbea-ee73-405b-8913-ea625411f495)
+
     
 
 
@@ -624,8 +590,9 @@ plt.show()
 ```
 
 
-    
-![png](output_22_0.png)
+![Unknown-7](https://github.com/user-attachments/assets/9c63667f-8608-4505-a503-461b7b5b6e62)
+
+
     
 
 
@@ -639,9 +606,10 @@ plt.title('Distribution of Screen')
 plt.show()
 ```
 
+![Unknown-8](https://github.com/user-attachments/assets/fe7a6ceb-fdf0-4c36-86c7-8163ae6704c2)
 
     
-![png](output_23_0.png)
+
     
 
 
@@ -721,8 +689,9 @@ plt.show()
 ```
 
 
-    
-![png](output_29_0.png)
+![Unknown-9](https://github.com/user-attachments/assets/9176eccc-4264-4f64-a764-18e4d13519de)
+
+
     
 
 
@@ -754,7 +723,8 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![Unknown-10](https://github.com/user-attachments/assets/61ecf877-6dc8-444a-a10c-b392bdf2ff21)
+
     
 
 
@@ -799,13 +769,5 @@ print('Predicted Price:', predicted_price)
 ```
 
     Predicted Price: [1046.0223202]
-
-
-    /Users/manasdash/anaconda3/lib/python3.11/site-packages/sklearn/base.py:464: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
-      warnings.warn(
-
-
-
-```python
 
 ```
