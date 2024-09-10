@@ -4,24 +4,25 @@ This is Laptop Price Predictor using linear Regression
 
 Used the data from kaggle.
 ## Here is Insights into the data
-![Unknown-1](https://github.com/user-attachments/assets/c6fb3432-007d-4f12-bc38-4f2de3c9bbfe)
+![Unknown-1](https://github.com/user-attachments/assets/6ea2fccf-8835-48cc-be57-95b3e1fd7e57)
 
-![Unknown-2](https://github.com/user-attachments/assets/d3a7bb39-ae2c-4c08-9cd7-f0f14adab132)
-![Unknown-3](https://github.com/user-attachments/assets/f3757c5f-6b99-419d-9b9d-dba1a5594ef1)
+![Unknown-2](https://github.com/user-attachments/assets/613963f0-d52a-4bae-9961-ec00350de02b)
 
-![Unknown-4](https://github.com/user-attachments/assets/840c4d93-4c76-444d-9c8d-e73777264218)
-
-![Unknown-5](https://github.com/user-attachments/assets/daaa082b-84d2-489e-8f07-cdd9504c7d05)
-
-![Unknown-6](https://github.com/user-attachments/assets/0a532c5b-28d2-436e-8e0e-a4960827ded5)
-
-![Unknown-7](https://github.com/user-attachments/assets/e1090141-bd89-44b9-a5d7-8d6f3eb42099)
-
-![Unknown-8](https://github.com/user-attachments/assets/1c080957-7fed-4948-a62d-4505fe484b83)
-
-![Unknown](https://github.com/user-attachments/assets/8f98f091-04c6-4d90-acbd-9a1c0ff39194)
-![Unknown-10](https://github.com/user-attachments/assets/dc98e665-64b1-409d-adaa-c81e09e53f3b)
+![Unknown-3](https://github.com/user-attachments/assets/a2621c9a-824a-4dcf-9efd-0dfc322dcc7e)
+![Unknown-4](https://github.com/user-attachments/assets/82f3ceb8-9cab-4a9a-b173-07a9c403d925)
 
 
-![Unknown-9](https://github.com/user-attachments/assets/5a05236a-44bf-453e-8043-426a0da574d2)
+![Unknown-5](https://github.com/user-attachments/assets/309d2fa4-c53e-4dc5-9553-9b19436c3c2f)
+
+
+![Unknown-6](https://github.com/user-attachments/assets/7a4a296a-1cf3-47b7-9f11-c2e3107da123)
+
+![Unknown-7](https://github.com/user-attachments/assets/da0feb5c-8715-47d4-b6d2-2678b47c5cec)
+![Unknown-8](https://github.com/user-attachments/assets/940ea3dd-a5a2-4a48-ad63-9b772f365886)
+
+![Unknown-9](https://github.com/user-attachments/assets/958cf553-51b4-4764-b452-e55efa3fe3c4)
+![Unknown-10](https://github.com/user-attachments/assets/36556572-f5ea-40f8-8515-c1c0d2e9f038)
+
+
+![Unknown](https://github.com/user-attachments/assets/79879107-edf0-4cbb-b02e-5a864f8bac55)
 
